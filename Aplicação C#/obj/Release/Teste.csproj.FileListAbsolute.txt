@@ -1,0 +1,14 @@
+C:\Users\kaiov\source\repos\Teste\Teste\obj\Release\Teste.csproj.AssemblyReference.cache
+C:\Users\kaiov\source\repos\Teste\Teste\obj\Release\Teste.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaiov\source\repos\Teste\Teste\obj\Release\Teste.Form1.resources
+C:\Users\kaiov\source\repos\Teste\Teste\obj\Release\Teste.Properties.Resources.resources
+C:\Users\kaiov\source\repos\Teste\Teste\obj\Release\Teste.csproj.GenerateResource.cache
+C:\Users\kaiov\source\repos\Teste\Teste\obj\Release\Teste.csproj.CoreCompileInputs.cache
+C:\Users\kaiov\source\repos\Teste\Teste\bin\Release\Teste.exe.config
+C:\Users\kaiov\source\repos\Teste\Teste\bin\Release\Teste.exe
+C:\Users\kaiov\source\repos\Teste\Teste\bin\Release\Teste.pdb
+C:\Users\kaiov\source\repos\Teste\Teste\bin\Release\OpenNETCF.Desktop.Communication.dll
+C:\Users\kaiov\source\repos\Teste\Teste\bin\Release\rapi2.dll
+C:\Users\kaiov\source\repos\Teste\Teste\obj\Release\Teste.csproj.CopyComplete
+C:\Users\kaiov\source\repos\Teste\Teste\obj\Release\Teste.exe
+C:\Users\kaiov\source\repos\Teste\Teste\obj\Release\Teste.pdb

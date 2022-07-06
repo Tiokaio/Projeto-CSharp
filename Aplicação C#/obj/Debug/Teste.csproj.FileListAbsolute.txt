@@ -1,0 +1,27 @@
+C:\Users\kaiov\source\repos\Teste\Teste\bin\Debug\Teste.exe.config
+C:\Users\kaiov\source\repos\Teste\Teste\bin\Debug\Teste.exe
+C:\Users\kaiov\source\repos\Teste\Teste\bin\Debug\Teste.pdb
+C:\Users\kaiov\source\repos\Teste\Teste\bin\Debug\OpenNETCF.Desktop.Communication.dll
+C:\Users\kaiov\source\repos\Teste\Teste\bin\Debug\rapi2.dll
+C:\Users\kaiov\source\repos\Teste\Teste\obj\Debug\Teste.csproj.AssemblyReference.cache
+C:\Users\kaiov\source\repos\Teste\Teste\obj\Debug\Teste.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaiov\source\repos\Teste\Teste\obj\Debug\Teste.Form1.resources
+C:\Users\kaiov\source\repos\Teste\Teste\obj\Debug\Teste.Properties.Resources.resources
+C:\Users\kaiov\source\repos\Teste\Teste\obj\Debug\Teste.csproj.GenerateResource.cache
+C:\Users\kaiov\source\repos\Teste\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\kaiov\source\repos\Teste\Teste\obj\Debug\Teste.csproj.CopyComplete
+C:\Users\kaiov\source\repos\Teste\Teste\obj\Debug\Teste.exe
+C:\Users\kaiov\source\repos\Teste\Teste\obj\Debug\Teste.pdb
+C:\Users\kaiov\Downloads\Teste.alpha (1)\Teste.alpha\obj\Debug\Teste.pdb
+C:\Users\kaiov\Downloads\Teste.alpha (1)\Teste.alpha\obj\Debug\Teste.csproj.AssemblyReference.cache
+C:\Users\kaiov\Downloads\Teste.alpha (1)\Teste.alpha\obj\Debug\Teste.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaiov\Downloads\Teste.alpha (1)\Teste.alpha\obj\Debug\Teste.Form1.resources
+C:\Users\kaiov\Downloads\Teste.alpha (1)\Teste.alpha\obj\Debug\Teste.Properties.Resources.resources
+C:\Users\kaiov\Downloads\Teste.alpha (1)\Teste.alpha\obj\Debug\Teste.csproj.GenerateResource.cache
+C:\Users\kaiov\Downloads\Teste.alpha (1)\Teste.alpha\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\kaiov\Downloads\Teste.alpha (1)\Teste.alpha\bin\Debug\Teste.exe
+C:\Users\kaiov\Downloads\Teste.alpha (1)\Teste.alpha\bin\Debug\Teste.pdb
+C:\Users\kaiov\Downloads\Teste.alpha (1)\Teste.alpha\bin\Debug\OpenNETCF.Desktop.Communication.dll
+C:\Users\kaiov\Downloads\Teste.alpha (1)\Teste.alpha\bin\Debug\rapi2.dll
+C:\Users\kaiov\Downloads\Teste.alpha (1)\Teste.alpha\obj\Debug\Teste.csproj.CopyComplete
+C:\Users\kaiov\Downloads\Teste.alpha (1)\Teste.alpha\obj\Debug\Teste.exe
